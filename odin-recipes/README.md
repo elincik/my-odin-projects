@@ -13,9 +13,11 @@ First [`The Odin Project`](https://www.theodinproject.com) assignment. Practicin
 
 :white_check_mark: HTML pages
 
-:black_large_square: CSS styling
+:white_check_mark: CSS styling
 
 :black_large_square: Responsivity
+
+:black_large_square: CSS hover states
 
 
 ------
