@@ -11,7 +11,7 @@ First [The Odin Project](https://www.theodinproject.com) assignment. Practicing 
 
 :white_check_mark: File structure
 
-:black_large_square: HTML pages
+:white_check_mark: HTML pages
 
 :black_large_square: CSS styling
 
