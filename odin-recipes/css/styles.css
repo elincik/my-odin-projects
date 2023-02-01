@@ -49,27 +49,18 @@ nav {
     letter-spacing:2px;
 }
 
+
+
 .linkbox.1 {
     justify-content:start;
 }
 
-.navlink.1 {
-    text-align:start;
-    align-items: center;
 
-}
-
-.navhome {
-    text-align:start;
-    padding-left:20px;
+.navhome{
     font-weight:bold;
-    font-size:1.2em;
-    align-items: center;
-    align-content:center;
-    lette-spacing:2px;
-    
-
-
+    font-size:1em;
+    text-align:start;
+    padding-left:8%;
 }
 
 a {
