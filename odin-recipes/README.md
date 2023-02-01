@@ -9,7 +9,7 @@ First [The Odin Project](https://www.theodinproject.com) assignment. Practicing 
 
 :white_check_mark: Design prototype
 
-:black_large_square: File structure
+:white_check_mark: File structure
 
 :black_large_square: HTML pages
 
