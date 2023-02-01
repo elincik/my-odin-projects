@@ -47,6 +47,7 @@ nav {
     left:0;
     text-align:center;
     letter-spacing:2px;
+    z-index: 1;
 }
 
 
@@ -60,7 +61,7 @@ nav {
     font-weight:bold;
     font-size:1em;
     text-align:start;
-    padding-left:8%;
+    padding-left:3vh;
 }
 
 a {
@@ -73,6 +74,46 @@ a {
     display:flex;
     height:92.5vh;
 }
+
+.hero-about {
+    display:flex;
+    flex-direction: column;
+    height:92.5vh;
+    justify-content: space-between;
+    border-width:1px;
+    border-bottom-style:solid;
+    border-top-style:solid;
+    padding-left:3vh;;
+    
+}
+
+.herotop {
+    margin-top:3vh;
+}
+
+.heromiddle{
+    display:flex;
+
+}
+
+.middle-left{
+    margin-right:15vw;
+}
+
+ul{
+    list-style-type:none;
+    padding-left:0;
+}
+
+li{
+    margin-bottom:2vh;
+}
+
+.abouth{
+    margin-bottom: 5vh;
+}
+
+
 
 .left-box{
     display:flex;
@@ -190,4 +231,26 @@ h2 {
     text-align:end;
 }
 
+.gitbutton {
+    margin-bottom:3vh;
+    padding:3vh;
+    border-style:solid;
+    width:20%;
+    border-width:1px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position:relative;
+}
 
+.gitlink{
+    display:flex;
+    position:absolute;
+    width:100%;
+    height:100%;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    z-index: 1;
+
+}
