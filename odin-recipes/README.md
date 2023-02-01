@@ -2,7 +2,7 @@
 
 First [`The Odin Project`](https://www.theodinproject.com) assignment. Practicing basic HTML & CSS + git workflow.
 
-<div align="center">[`LIVE PREVIEW`](https://elincik.github.io/my-odin-projects/odin-recipes/)</div>
+<div align="center">[LIVE PREVIEW](https://elincik.github.io/my-odin-projects/odin-recipes/)</div>
 
 ------
 
