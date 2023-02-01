@@ -9,7 +9,7 @@ body {
 
 }
 .wrapper{
-    height:97vh;
+    height:96.9vh;
     justify-content:space-between;
     border-style:solid;
     border-bottom-style:none;
@@ -21,6 +21,12 @@ nav {
     display:flex;
     justify-content:space-between;
     height:4.5vh;
+}
+
+.bottomnav {
+    border-bottom-style:solid;
+    border-bottom-width:1px;
+
 }
 
 .linkbox {
@@ -83,8 +89,42 @@ a {
     border-width:1px;
     border-bottom-style:solid;
     border-top-style:solid;
-    padding-left:3vh;;
+    padding-left:3vh;
     
+}
+
+.hero-creator{
+    display:flex;
+    flex-direction: column;
+    height:87.7vh;
+    justify-content: space-between;
+    border-width:1px;
+    border-bottom-style:solid;
+    border-top-style:solid;
+    padding-left:3vh;
+    margin-bottom:0;
+    align-items: center;
+    padding-bottom:0;
+
+}
+
+
+.creator-box{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height:100%;
+}
+
+.year {
+    margin:2vh;
+}
+
+.madeby{
+    font-weight:bold;
+    font-size:1.2em;
+    margin-top:33vh;
 }
 
 .herotop {
