@@ -21,4 +21,4 @@ First [The Odin Project](https://www.theodinproject.com) assignment. Practicing 
 ------
 
 **Prototype:**
-![alt text](https://s9.gifyu.com/images/ezgif.com-gif-makercfea28ef21e22b65.gif)
+![alt text](https://s3.gifyu.com/images/ezgif.com-gif-maker-18735584fbffec487.gif)
