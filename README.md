@@ -5,7 +5,7 @@ My projects for [The Odin Project](https://www.theodinproject.com/) web developm
 
 |Project                        |Topic                               |Project status                       |   Live Preview                               
 |-------------------------------|------------------------------------|-------------------------------------|----------------------------------------------
-|[Recipes](shorturl.at/flm09)   | Basic HTML & CSS                   | ![50%](https://progress-bar.dev/30) |            
+|Recipes                        | Basic HTML & CSS                   | ![50%](https://progress-bar.dev/30) |            
 |Landing Page                   | Flexbox                            | ![50%](https://progress-bar.dev/0)  | 
 |Rock Paper Scissors            | Javascript                         | ![50%](https://progress-bar.dev/0)  |
 |Etch-a-sketch                  | Javascript                         | ![50%](https://progress-bar.dev/0)  |
