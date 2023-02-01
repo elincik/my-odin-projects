@@ -17,6 +17,12 @@ body {
     border-color:#D85857;
     }
 
+.wrapper.recipe{
+    border-bottom-style:solid;
+    padding:0;
+   
+}
+
 nav {
     display:flex;
     justify-content:space-between;
@@ -26,6 +32,14 @@ nav {
 .bottomnav {
     border-bottom-style:solid;
     border-bottom-width:1px;
+
+}
+
+.recipes-left-top{
+    width:100%;
+    display:flex;
+    padding-left:3.5vw;
+    padding-top: 2vh;
 
 }
 
@@ -44,7 +58,85 @@ nav {
     border-style:none;
 }
 
+.quotebox-recipe{
+    margin-bottom:5vh;
+    font-style:italic;
+    font-size:.9rem;
+}
 
+.quotewho-recipe {
+    margin-bottom:3vh;
+    font-size:.9rem;
+    text-align:end;
+
+}
+
+.recipe-right-top{
+    border-style:solid;
+    border-width:1px;
+    width:100%;
+    height:auto;
+    border-top-style:none;
+    text-align:left;
+    padding-bottom:3vh
+    
+}
+
+.recipe-right-bottom{
+    height:100%;
+    text-align:left;
+    width:100%;
+
+}
+
+.recipe-right-middle{
+    display:flex;
+    align-items: stretch;
+    justify-content: space-between;
+    border-bottom-style:solid;
+    border-width:1px;
+    width:100%;
+    height:auto;
+}
+
+.smallhead-m{
+    padding:0;
+    margin:0;
+    font-weight: bold;
+}
+
+.middle-sections{
+    border-right-style:solid;
+    width:100%;
+    padding:3%;
+    border-width:1px;
+
+    
+}
+
+ol{
+    margin-left:3%;
+    line-height:3vh;
+}
+
+
+.time{
+    font-size:2.5em;
+    text-align:center;
+}
+
+.smallhead{
+    padding-left:3vh;
+    font-weight: bold;
+    margin-bottom:4vh;
+
+}
+
+.recipe{
+    list-style-type:disc;
+    padding-left:4.5vh;
+    padding-right:0;
+}
 .navlink{
     position:absolute;
     width:100%;
