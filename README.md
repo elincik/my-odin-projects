@@ -1,5 +1,5 @@
 # my-odin-projects
-My projects for [The Odin Project](https://www.theodinproject.com/) web development course.
+My projects for [`The Odin Project`](https://www.theodinproject.com/) web development course.
 
 **Foundations**
 
