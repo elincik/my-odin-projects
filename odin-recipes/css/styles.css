@@ -54,18 +54,8 @@ nav {
     position:Relative;
 }
 
-.linkbox.active {
-    display:flex;
-    align-items:center;
-    justify-content: center;
-    width:100%;
-    border-right-style:solid;
-    border-width:1px;
-    border-color:#D85857;
-    background-color: #D85857;
-    color:#F5F5F5;
-    position:Relative;
-}
+
+
 
 .linkbox.last{
     border-style:none;
@@ -152,6 +142,9 @@ ol{
 }
 .navlink{
     position:absolute;
+    display:flex;
+    align-items: center;
+    justify-content: center;
     width:100%;
     height:100%;
     top:0;
@@ -159,10 +152,14 @@ ol{
     text-align:center;
     letter-spacing:2px;
     z-index: 1;
+    margin:0;
 }
 
 .navlink.active{
     position:absolute;
+    display:flex;
+    align-items: center;
+    justify-content: center;
     width:100%;
     height:100%;
     top:0;
@@ -170,8 +167,29 @@ ol{
     text-align:center;
     letter-spacing:2px;
     z-index: 1;
+    margin:0;
     color:#F5F5F5;
+    background-color: #D85857;
 }
+
+
+.navlink:hover{
+    position:absolute;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    text-align:center;
+    letter-spacing:2px;
+    z-index: 1;
+    margin:0;
+    color:#F5F5F5;
+    background-color: #D85857;
+}
+
 
 
 
@@ -352,6 +370,17 @@ li{
     position:absolute;
 }
 
+.rbox:hover {
+    display:flex;
+    height:100%;
+    width:100%;
+    justify-content:center;
+    align-items:center;
+    position:absolute;
+    color:#F5F5F5;
+    background-color: #D85857;
+}
+
 .arrowbox {
     justify-content:end;
     padding-right:2vw;
@@ -411,5 +440,19 @@ h2 {
     justify-content: center;
     position:absolute;
     z-index: 1;
+
+}
+
+.gitlink:hover{
+    display:flex;
+    position:absolute;
+    width:100%;
+    height:100%;
+    align-items: center;
+    justify-content: center;
+    position:absolute;
+    z-index: 1;
+    color:#F5F5F5;
+    background-color: #D85857;
 
 }
