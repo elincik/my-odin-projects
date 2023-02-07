@@ -19,7 +19,9 @@ First [`The Odin Project`](https://www.theodinproject.com) assignment. Practicin
 
 :black_large_square: Responsivity
 
-:black_large_square: CSS hover states
+:white_check_mark: CSS hover states
+
+:black_large_square: CSS animations
 
 
 ------
