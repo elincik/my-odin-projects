@@ -446,6 +446,16 @@ h2 {
 
 }
 
+.recipeimage{
+    display:flex;
+    justify-content: center;
+}
+
+img {
+    width:90%;
+
+}
+
 .gitlink:hover{
     display:flex;
     position:absolute;
@@ -461,7 +471,7 @@ h2 {
 }
 
 
-@media only screen and (min-width:375px) and (max-width:768px){
+@media only screen and (min-width:342px) and (max-width:768px){
 
     .hero{
         display:flex;
@@ -525,8 +535,199 @@ h2 {
         display:block;
     }
 
-    .recipeimage{
+    img {
+        width:100%;
+    }
 
+    .recipeimage{
+        display:flex;
+    }
+
+
+    .left-content{
+        padding:5%;
+    }
+
+    .navhome{
+        padding-left:1%;
+    }
+
+    .recipes-left-top{
+        width:100%;
+        display:flex;
+        padding-left:0;
+        padding-top: 2vh;
+
+    
+    }
+
+    .wrapper.recipe{
+        border-bottom-style:none;
+    }
+
+    .left-box{
+        border-style:none;
+    }
+
+    .recipe-right-top{
+        height:100%;
+        padding-top:5%;
+        
+    }
+
+    .hero-about{
+        border-top-style:none;
+    }
+    .right-box{
+        border-style:solid;
+        border-right-style:none;
+        
+    }
+
+    nav{
+        border-bottom-style:solid;
+        border-width:1px;
+    }
+
+    .recipe-right-middle{
+        border-right-style:none;
+    }
+
+    .recipe-right-bottom{
+        border-right-style:solid;
+        border-width:1px;
     }
 
 }
+
+
+@media only screen and (min-width:0px) and (max-width:342px){
+
+    .hero{
+        display:flex;
+        flex-direction: column;
+    }
+
+    .left-box{
+        width:100%;
+        height:auto;
+        max-height:90vh;
+    }
+
+    .right-box{
+        width:100%;
+        border-top-style:none;
+        display:flex;
+        flex-direction: column;
+        height:100%;
+
+
+    }
+
+    .rbutton{
+        height:100%;
+    }
+
+    .rbox{
+        height:100%;
+    }
+
+    .heading{
+        margin-top:10%;
+    }
+
+    .description{
+        font-size:1em;
+        padding-left:3%;
+        padding-right:3%;
+    }
+
+    .linbox{
+        display:flex;
+        flex-wrap:wrap;
+        text-align: start;
+
+    }
+    .hero-about{
+        border-top-style:none;
+    }
+
+    .navlink{
+        text-align:start;
+        font-size:small;
+        padding-left:2%;
+
+    }
+
+    .gitbutton{
+        width:75%;
+    }
+
+    .heromiddle{
+        font-size:small;
+        display:block;
+    }
+
+    img {
+        width:100%;
+    }
+
+    .recipeimage{
+        display:flex;
+    }
+
+
+    .left-content{
+        padding:0%;
+    }
+
+    .navhome{
+        padding-left:1%;
+    }
+
+    .recipes-left-top{
+        width:100%;
+        display:flex;
+        padding-left:0;
+        padding-top: 2vh;
+
+    
+    }
+
+    .wrapper.recipe{
+        border-bottom-style:none;
+    }
+
+    .left-box{
+        border-style:none;
+    }
+
+    .recipe-right-top{
+        height:100%;
+        padding-top:5%;
+        
+    }
+
+    .right-box{
+        border-style:solid;
+        border-right-style:none;
+        
+    }
+
+    nav{
+        border-bottom-style:solid;
+        border-width:1px;
+    }
+
+    .recipe-right-middle{
+        border-right-style:none;
+    }
+
+    .recipe-right-bottom{
+        border-right-style:solid;
+        border-width:1px;
+    }
+
+}
+
+
