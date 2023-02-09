@@ -2,22 +2,22 @@
 
 Second [`The Odin Project`](https://www.theodinproject.com) assignment. Recreate a landing page design in HTML & CSS
 
-### [[Live preview]]() 
+### [[Live preview]](https://elincik.github.io/my-odin-projects/landing-page/) 
 
 ------
 
 
 **To do list:**
 
-:black_large_square: HTML
+:white_check_mark: HTML
 
-:black_large_square: CSS
+:white_check_mark: CSS
 
 :black_large_square: Add own content
 
 :black_large_square: Customise the design
 
-:black_large_square: Create live preview & link
+:white_check_mark: Create live preview & link
 
 
 
