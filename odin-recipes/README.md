@@ -1,4 +1,4 @@
-## ODIN RECIPES
+## Project 1: ODIN RECIPES
 
 First [`The Odin Project`](https://www.theodinproject.com) assignment. Practicing basic HTML & CSS + git workflow.
 

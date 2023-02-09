@@ -1,4 +1,4 @@
-## ODIN RECIPES
+## Project 2: Landing Page
 
 Second [`The Odin Project`](https://www.theodinproject.com) assignment. Recreate a landing page design in HTML & CSS
 
